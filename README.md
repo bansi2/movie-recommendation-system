@@ -82,3 +82,7 @@ Demonstrated how to build an end-to-end ML-powered application that provides rea
 
 #MachineLearning #NLP #Python #Streamlit #DataScience #RecommendationSystem #MovieRecommendation #AI #PortfolioProject #MLProject #OpenToWork
 
+
+![result1](https://github.com/user-attachments/assets/010e8c20-ac07-4598-9c6d-86aaf1ea5806)
+
+
